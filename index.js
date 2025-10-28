@@ -1,8 +1,9 @@
-function logUser(){
-  console.log();
+function logUser(username){
+  console.log(username);
 }
 
-document.getElementById("result")innerHTML = logUser;
+document.getElementById("result")innerHTML = logUser(${bwherry-netizen});
+
 
 
 
