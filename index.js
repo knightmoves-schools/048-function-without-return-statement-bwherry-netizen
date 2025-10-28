@@ -1,8 +1,9 @@
 function logUser(){
-  console.log(message);
+  console.log();
 }
 
-document.getElementById("result")innerHTML = logUser("bwherry-netizen");
+document.getElementById("result")innerHTML = logUser;
+
 
 
 
