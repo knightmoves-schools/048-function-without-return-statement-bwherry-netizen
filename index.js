@@ -3,10 +3,11 @@
 
 
 function logUser(){
-  console.log(${username});
+  console.log(${bwherry-netizen});
 }
 
 document.getElementById("result")innerHTML = logUser;
+
 
 
 
