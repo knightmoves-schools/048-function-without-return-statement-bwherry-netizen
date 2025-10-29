@@ -1,10 +1,11 @@
 
 
-function logUser(${username}){
-  console.log(${username});
+function logUser("message"){
+  console.log("message");
 }
 
 document.getElementById("result")innerHTML = logUser(bwherry-netizen);
+
 
 
 
