@@ -4,7 +4,8 @@ function logUser("message"){
   console.log("message");
 }
 
-document.getElementById("result")innerHTML = logUser(bwherry-netizen);
+document.getElementById("result")innerHTML = logUser;
+
 
 
 
