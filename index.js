@@ -1,6 +1,5 @@
-
-
-function logUser("username"){
+function logUser(username){
   console.log(`user: ${username}`);
-}
+};
+
 
