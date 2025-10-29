@@ -1,21 +1,5 @@
 
 
-function logUser("message"){
-  console.log("message");
-}
-
-document.getElementById("result")innerHTML = logUser;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+function logUser("username"){
+  console.log(`user: ${username}`);
+};
